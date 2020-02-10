@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExtractorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-13T12:11:58" hostname="Chois-MacBook.local" time="0.009">
+  <properties/>
+  <testcase name="유효하지_않은_값" classname="ExtractorTest" time="0.009"/>
+  <testcase name="하나의_값" classname="ExtractorTest" time="0.0"/>
+  <testcase name="두개_이상의_값" classname="ExtractorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
